@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Digital Seven';
+    src: url(digital-7.ttf);
+  }
+
+
+  .clock span {
+      font-family: 'Digital Seven';
+      font-size: 50px;
+      display: block;
+      text-align: center;
+      color: #272727;
+  }
